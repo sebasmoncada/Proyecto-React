@@ -1,0 +1,9 @@
+.imagenModeloTop{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+}
+
+.rojo{
+    background-image: linear-gradient(to right bottom , #050914fa, #11164980, #613523dc);
+}

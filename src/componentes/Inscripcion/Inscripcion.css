@@ -1,0 +1,11 @@
+.tarj{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    padding: 50px;
+    font-family:initial;
+    font-size: 18px;
+}

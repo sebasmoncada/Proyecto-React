@@ -1,0 +1,12 @@
+.rec{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    font-family:initial;
+    text-align:justify;
+    font-size: 22px;
+    padding-top: 25px;
+}

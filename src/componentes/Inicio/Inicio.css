@@ -1,0 +1,43 @@
+.contenido{
+    background-image: linear-gradient(to right bottom , #050914fa, #11164980, #613523dc);
+    color: white;
+}
+
+@media (min-width: 1091px) {
+    .logo1 {
+      padding-left: 700px;
+    }
+  }
+  
+  /* Estilos para pantalla chica */
+  @media (max-width: 1090px) {
+    .logo1 {
+      padding-left: 500px;
+    }
+  }
+
+
+.logo2{
+    padding-top: 65px;
+}
+
+@media (min-width: 768px) {
+    .text1 {
+        font-size: 48px;
+        font-weight: bolder;
+        text-align: center;
+        padding-top: 80px;
+        font-family:initial;
+    }
+}
+  
+  /* Estilos para pantalla chica */
+  @media (max-width: 767px) {
+    .text1 {
+        font-family:initial;
+        text-align: center;
+        font-size: 15px;
+        padding-top: 80px;
+        padding-right: 90px;
+    }
+  }
