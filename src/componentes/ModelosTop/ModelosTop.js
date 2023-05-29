@@ -25,11 +25,13 @@ export default class ModelosTop extends React.Component{
     render(){
         return (
             <>
-                <div className='row rojo'>
+            <div className='container-fluid'>
+                <div className='row rojo '>
                     {this.state.models.map((model) =>(
                         <ListaModelos model={model}></ListaModelos>
                     ))}
                 </div>
+            </div>
             </>
         );
     }

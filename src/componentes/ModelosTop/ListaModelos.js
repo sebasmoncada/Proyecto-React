@@ -21,8 +21,8 @@ export default class ListaModelos extends React.Component{
         return (
             <>
                 <div className="col-3 d-lg-none"></div> 
-                <div className='card col-lg-3 col-6 m-5 ' >
-                    <div className='row'>
+                <div className='card col-lg-3 col-6 m-5  ' >
+                    <div className='row '>
                         <img className=' col-4 imagenModeloTop' src={this.props.model.url} ></img>
                         <div className='nombre col-6 '>
                         {(this.props.model.artist == null ? 'Anónimo' : this.props.model.artist.name)}</div>

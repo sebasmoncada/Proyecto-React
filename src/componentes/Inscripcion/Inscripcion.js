@@ -18,8 +18,8 @@ export default class Inscripcion extends React.Component{
 
     submitted(event){
         alert("Se envió el formulario de " + this.state.nombre );
-        this.formRef.current.reset();
-        event.preventDefault();
+        // this.formRef.current.reset();
+        // event.preventDefault();
     }
 
     changed(event){
@@ -31,7 +31,7 @@ export default class Inscripcion extends React.Component{
     render(){
         return (
             <>
-            <div className='contenido'>
+            <div className='contenido container-fluid'>
                 <div className="row">
                     <div className='col-lg-9 col-12 row'>
                         <div className='logo1'>
