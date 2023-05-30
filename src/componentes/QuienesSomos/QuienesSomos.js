@@ -13,7 +13,7 @@ export default class QuienesSomos extends React.Component{
                             <img className="logo" src="LOGO.png" width="450px"></img>
                         </div>
                         <div className='logo2 col-4'>
-                        <img className="logo2" src="LOGO2.png" width="280px"></img>
+                        <img className="logo2" src="LOGO2.png" width="285px"></img>
                         </div>
                         <div className='row col-7 d-flex align-items-center'>
                             <h1 className='col-12'>¿Quienes Somos?</h1>

@@ -12,10 +12,10 @@ export default class Inicio extends React.Component{
                     <div className='col-lg-9 col-12 row'>
                         
                         <div className='logo1'>
-                            <img className="logo" src="LOGO.png" width="450px"></img>
+                            <img className="logo" src="LOGO.png" width="450x"></img>
                         </div>
                         <div className='logo2 col-4'>
-                        <img className="logo2" src="LOGO2.png" width="280px"></img>
+                        <img className="logo2" src="LOGO2.png" width="285px"></img>
                         </div>
                         <div className='text1 col-7'>
                             <h1>Si tienes experiencia como modelo web y buscas tener más libertar, acá podrás sacar a relucir ese potencial</h1>

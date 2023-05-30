@@ -38,7 +38,7 @@ export default class Inscripcion extends React.Component{
                             <img className="logo" src="LOGO.png" width="450px"></img>
                         </div>
                         <div className='logo2 col-4'>
-                        <img className="logo2" src="LOGO2.png" width="280px"></img>
+                        <img className="logo2" src="LOGO2.png" width="285px"></img>
                         </div>
                         <div className='tarj col-7'>
                             <div className=''>
